@@ -1,3 +1,3 @@
 # IBMCapstoneProject
 Capstone Project for IBM Data Science Certificate <br>
-Check the IBMCapstoneProject.pptx for project presentation.
+Check the IBMCapstoneProject_Spacex.pdf for project presentation.
